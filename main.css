@@ -94,6 +94,13 @@ body{
     display: inline-block;
     
 }
+
+#video_links{
+
+    display: inline-block;
+    margin-left: 5px;
+
+}
 #header_picture img{
     box-shadow: 0px 2px 10px 1px rgba(0,0,0,0.7) ;
 }
